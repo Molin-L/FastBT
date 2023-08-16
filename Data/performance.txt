@@ -1,0 +1,16 @@
+total_return: 0.544491
+annual_return: 0.0544491
+win_rate: 0.347826
+max_drawdown: 0
+sharpe_ratio: 0.0245709
+sortino_ratio: 0
+calmar_ratio: 0
+alpha: 0
+beta: 0
+volatility: 0
+information_ratio: 0
+downside_risk: 0
+tracking_error: 0
+profit_factor: 0
+average_return: 0
+average_loss: 0
